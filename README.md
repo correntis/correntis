@@ -1,5 +1,4 @@
 <div align="left">
-    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40" alt="Waving Hand"/>
     <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&size=24&pause=50&width=435&lines=+Correntis+;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
