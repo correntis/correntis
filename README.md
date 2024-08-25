@@ -1,55 +1,50 @@
-<div align="left">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&size=24&pause=50&width=435&lines=+Correntis+;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</div>
 
-<h2 align="center">🚀 About Me</h2>
-
-<p>
-    I am currently a <strong>third-year student</strong> at the Belarusian State Technological University, pursuing a degree in <strong>"Software of Information Technologies"</strong>. My academic journey has exposed me to a wide range of programming languages and technologies, including:
+<h1 align="center">Correntis</h1>
+<p align="left">
+I am currently a third-year student at the <strong>Belarusian State Technological University</strong>, pursuing a degree in <strong>"Software of Information Technologies"</strong>. My academic journey has exposed me to a wide range of programming languages and technologies.
 </p>
 
-- <img src="https://skillicons.dev/icons?i=cpp" alt="Docker Icon" width="20" height="20" style="vertical-align: middle;"/> **C++:** Algorithms, Data Structures
-- <img src="https://skillicons.dev/icons?i=cs" alt="Docker Icon" width="20" height="20" style="vertical-align: middle;"/> **C#:** Language Fundamentals, Design Patterns, WPF Desktop Applications
-- <img src="https://skillicons.dev/icons?i=java" alt="Docker Icon" width="20" height="20" style="vertical-align: middle;"/> **Java:** Object-Oriented Programming
-- <img src="https://skillicons.dev/icons?i=js" alt="Docker Icon" width="20" height="20" style="vertical-align: middle;"/> <img src="https://skillicons.dev/icons?i=ts" alt="Docker Icon" width="20" height="20" style="vertical-align: middle;"/> <img src="https://skillicons.dev/icons?i=react" alt="Docker Icon" width="20" height="20" style="vertical-align: middle;"/> **JavaScript/TypeScript:** Frontend Development with React
-- 📊 **MS SQL Server:** Database Management
-
-<h2 align="center">🎯 My Interests</h2>
-
-<p>
-    My primary passion is in <strong>C#</strong>, the <strong>.NET platform</strong>, and <strong>backend development</strong>. In my personal and academic projects, I have worked extensively with:
+<p> 
+I’m most passionate about backend development. In my projects, I work with <strong>ASP.NET Core</strong>, <strong>Docker</strong>, <strong>Redis</strong>, <strong>PostgreSQL</strong>, <strong>MS SQL Server</strong>, <strong>TypeScript</strong> and <strong>React</strong>. Currently, I’m particularly interested in diving deeper into microservices architecture, exploring tools such as <strong>Prometheus</strong>, <strong>Grafana</strong>, <strong>RabbitMQ</strong> and <strong>Kafka</strong>, while also continuing to enhance my expertise in <strong>ASP.NET Core</strong>.
 </p>
 
+- 🔭 I’m currently working on [CommerceFlow](https://github.com/correntis/CommerceFlow)
 
--  🖥️ **WPF:** For building desktop applications
--  💾 **Entity Framework Core:** For ORM and database interaction 
--  📊 **MS SQL Server:** For robust data management
-
-
-
-<p>
-    Additionally, I have practical experience in the context of developing <strong>gRPC microservices</strong>. with:
-</p>
-
-- <img src="https://skillicons.dev/icons?i=docker" alt="Docker Icon" width="20" height="20" style="vertical-align: middle;"/> **Docker**
-- <img src="https://skillicons.dev/icons?i=kafka" alt="Docker Icon" width="20" height="20" style="vertical-align: middle;"/> **Kafka**
-- **🔗 gRPC**
-
-
-
-<h2 align="center">🛠️ Future Goals</h2>
-
-<p>
-    I am keen to expand my expertise by delving deeper into the following technologies and concepts:
-</p>
-
-- <img src="https://skillicons.dev/icons?i=redis" alt="Docker Icon" width="20" height="20" style="vertical-align: middle;"/> **Redis** and  <img src="https://skillicons.dev/icons?i=postgres" alt="Docker Icon" width="20" height="20" style="vertical-align: middle;"/>**PostgreSQL:** For efficient caching and database management
-- <img src="https://skillicons.dev/icons?i=rabbitmq" alt="Docker Icon" width="20" height="20" style="vertical-align: middle;"/> **RabbitMQ:** For message brokering
-- <img src="https://skillicons.dev/icons?i=prometheus" alt="Docker Icon" width="20" height="20" style="vertical-align: middle;"/> **Prometheus** and  <img src="https://skillicons.dev/icons?i=grafana" alt="Docker Icon" width="20" height="20" style="vertical-align: middle;"/>**Grafana:** For monitoring and visualization
-- **🌐 ASP.NET Core:** For building scalable web applications
-- **🛡️ Ocelot:** or API Gateway implementation in ASP.NET Core
-- **🔗 Microservices Architecture:** To master the design and development of distributed systems
-
-<h2 align="center"></h2>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
 <a href="https://t.me/corrrenti">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> 
+</a> 
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> 
+</a> 
+ <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="50"/> 
+ </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> 
+</a>
+ <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> 
+ </a> 
+ <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
+ </a> 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
+ </a> 
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> 
+ </a> 
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
+ </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/> 
+  </a> 
+
+  </p>
